@@ -10,7 +10,7 @@ A simple script to download free music from YouTube using `yt-dlp` and `ffmpeg`.
    ```bash
    pip install os mutagen.mp4 PIL translate
    ```
-3. Make sure `ffmpeg` is installed in the ffmpeg folder and accessible in your system's PATH.
+3. Make sure `ffmpeg` is installed in the newly created ffmpeg folder and accessible in your system's PATH.
 ## Usage
 1. Run the script with a YouTube URL music or a playlist URL in the links.txt file.
    ```bash
