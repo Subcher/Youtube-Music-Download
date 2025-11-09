@@ -1,5 +1,5 @@
 # Youtube Music Download
-A simple script to download free music from YouTube using `yt-dlp` and `ffmpeg`.
+A simple script to download free music from YouTube using `yt-dlp` and `ffmpeg`. It will output a `.m4a` file with metadatas : title (russian to english autotranslation), artist and square thumbnail.
 ## Requirements
 - Python 3.x
 - `yt-dlp` (YouTube downloader)
